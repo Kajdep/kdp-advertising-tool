@@ -1,1 +1,1 @@
-web: python main.py
+web: PORT=$PORT python src/main_supabase.py
