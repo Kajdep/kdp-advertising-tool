@@ -1,1 +1,1 @@
-web: python src/main_supabase.py
+web: python main.py
